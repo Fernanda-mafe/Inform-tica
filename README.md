@@ -10,9 +10,9 @@ Portifólio de trabalhos desenvolvidos no curso GPI- Fatec- SJC
 Desenvolvimento do trabalho
 ## Dados
 ![image](https://github.com/user-attachments/assets/31b7e8d5-70f5-40f9-b3eb-b449759a7e14)
+https://2013-2016-indicadores.cidadessustentaveis.org.br/br/SP/sao-jose-dos-campos
 ## Excel
 ![image](https://github.com/user-attachments/assets/08d7f5c9-bdc8-404d-870a-9b5e6a348fe5)
 [abastecimento de água potavel 1.xlsx](https://github.com/user-attachments/files/19695325/abastecimento.de.agua.potavel.1.xlsx)
-
 ## Power BI
 ![image](https://github.com/user-attachments/assets/603b18f8-6dad-482e-bf64-b71de3c74946)
