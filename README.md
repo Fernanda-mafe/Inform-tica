@@ -16,3 +16,4 @@ https://2013-2016-indicadores.cidadessustentaveis.org.br/br/SP/sao-jose-dos-camp
 [abastecimento de água potavel 1.xlsx](https://github.com/user-attachments/files/19695325/abastecimento.de.agua.potavel.1.xlsx)
 ## Power BI
 ![image](https://github.com/user-attachments/assets/603b18f8-6dad-482e-bf64-b71de3c74946)
+https://github.com/Fernanda-mafe/Inform-tica/blob/main/Power%20BI.pbix
