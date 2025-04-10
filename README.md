@@ -10,3 +10,7 @@ Portifólio de trabalhos desenvolvidos no curso GPI- Fatec- SJC
 Desenvolvimento do trabalho
 ## Dados
 ![image](https://github.com/user-attachments/assets/31b7e8d5-70f5-40f9-b3eb-b449759a7e14)
+## Excel
+![image](https://github.com/user-attachments/assets/08d7f5c9-bdc8-404d-870a-9b5e6a348fe5)
+## Power BI
+![image](https://github.com/user-attachments/assets/603b18f8-6dad-482e-bf64-b71de3c74946)
