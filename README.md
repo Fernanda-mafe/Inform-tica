@@ -17,6 +17,8 @@ https://2013-2016-indicadores.cidadessustentaveis.org.br/br/SP/sao-jose-dos-camp
 ## Power BI
 ![image](https://github.com/user-attachments/assets/603b18f8-6dad-482e-bf64-b71de3c74946)
 https://github.com/Fernanda-mafe/Inform-tica/blob/main/Power%20BI.pbix
+
+
 # Sexta Atividade Google Colab
 ## Google Colab Venda de Casas 
 ![Captura de tela 2025-05-26 203506](https://github.com/user-attachments/assets/6115c4ef-87b5-4aa4-ac5d-ff00d5e10fc5)
