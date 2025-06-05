@@ -8,10 +8,10 @@ Portifólio de trabalhos desenvolvidos no curso GPI- Fatec- SJC
 ![Captura de tela 2025-03-20 205705](https://github.com/user-attachments/assets/71c3af77-ef1e-416c-8cbf-14cd24157eec)
 # Apresentação Dados Abertos
 Desenvolvimento do trabalho
-## Dados
+## 4° Dados
 ![image](https://github.com/user-attachments/assets/31b7e8d5-70f5-40f9-b3eb-b449759a7e14)
 https://2013-2016-indicadores.cidadessustentaveis.org.br/br/SP/sao-jose-dos-campos
-## Excel
+## 5° Excel
 ![image](https://github.com/user-attachments/assets/08d7f5c9-bdc8-404d-870a-9b5e6a348fe5)
 [abastecimento de água potavel 1.xlsx](https://github.com/user-attachments/files/19695325/abastecimento.de.agua.potavel.1.xlsx)
 ## Power BI
@@ -19,7 +19,7 @@ https://2013-2016-indicadores.cidadessustentaveis.org.br/br/SP/sao-jose-dos-camp
 https://github.com/Fernanda-mafe/Inform-tica/blob/main/Power%20BI.pbix
 #
 #
-# Sexta Atividade Google Colab
+# 6° Atividade Google Colab
 ## Google Colab Venda de Casas 
 ![Captura de tela 2025-05-26 203506](https://github.com/user-attachments/assets/6115c4ef-87b5-4aa4-ac5d-ff00d5e10fc5)
 https://github.com/Fernanda-mafe/Inform-tica/blob/main/Google_Colab_Casas.ipynb
@@ -29,9 +29,14 @@ https://github.com/Fernanda-mafe/Inform-tica/blob/main/HousePrices_Casas.xlsx
 #
 #
 #
-#Sétima Atividade Planilhas Excel
+# 7° Atividade Planilhas Excel
 ## Panelas e Sorvetes
 ![Captura de tela 2025-06-05 202308](https://github.com/user-attachments/assets/b67ac975-80ce-425f-996d-b77626777a80)
 ![Captura de tela 2025-06-05 202545](https://github.com/user-attachments/assets/4ec1703e-ee08-4ee1-b870-483bce2c0184)
+## Computador e Sandálias
+![Captura de tela 2025-06-05 202912](https://github.com/user-attachments/assets/f9af07c3-ab5c-450e-95c0-5f2f503ac52a)
+![Captura de tela 2025-06-05 202928](https://github.com/user-attachments/assets/b87c2573-33f3-4aca-b109-a89ca1f3c106)
+
+
 
 
