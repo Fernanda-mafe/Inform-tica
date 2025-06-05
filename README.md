@@ -26,3 +26,12 @@ https://github.com/Fernanda-mafe/Inform-tica/blob/main/Google_Colab_Casas.ipynb
 ## Excel Venda de Casas
 ![Captura de tela 2025-05-26 203706](https://github.com/user-attachments/assets/da89336a-1122-4986-ab7b-35af1dbb182e)
 https://github.com/Fernanda-mafe/Inform-tica/blob/main/HousePrices_Casas.xlsx
+#
+#
+#
+#Sétima Atividade Planilhas Excel
+## Panelas e Sorvetes
+![Captura de tela 2025-06-05 202308](https://github.com/user-attachments/assets/b67ac975-80ce-425f-996d-b77626777a80)
+![Captura de tela 2025-06-05 202545](https://github.com/user-attachments/assets/4ec1703e-ee08-4ee1-b870-483bce2c0184)
+
+
