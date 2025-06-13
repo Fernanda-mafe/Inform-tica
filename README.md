@@ -41,6 +41,12 @@ https://github.com/Fernanda-mafe/Inform-tica/blob/main/HousePrices_Casas.xlsx
 # 9° Atividade PowerApp
 ## Clientes
 https://github.com/user-attachments/assets/5be997d9-f21d-42e4-8d46-c7f5130e8016
+## Fornecedores
+https://github.com/user-attachments/assets/e16a527a-a8b1-4b50-acb1-7e57a0d1a688
+## Ordem de Produção
+https://github.com/user-attachments/assets/b2b92cda-e1a6-4a38-ad04-dafe9cd859c7
+
+
 
 
 
