@@ -1,6 +1,6 @@
 # Informática
 Portifólio de trabalhos desenvolvidos no curso GPI- Fatec- SJC 
-## 1° Trabalho: apresentação pessoal
+# 1° Trabalho: apresentação pessoal
 ![Captura de tela 2025-03-20 202102](https://github.com/user-attachments/assets/4ad50bee-4129-4f56-8b7e-eed154e5cd59)
 ## 2° Atividade: Planilha Excel
 ![Captura de tela 2025-03-20 205454](https://github.com/user-attachments/assets/6f6a1bba-2d8d-460e-9809-ae65433d0d05)
