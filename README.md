@@ -28,7 +28,6 @@ https://github.com/Fernanda-mafe/Inform-tica/blob/main/Google_Colab_Casas.ipynb
 https://github.com/Fernanda-mafe/Inform-tica/blob/main/HousePrices_Casas.xlsx
 #
 #
-#
 # 8° Atividade Planilhas Excel
 ## Panelas e Sorvetes
 ![Captura de tela 2025-06-05 202308](https://github.com/user-attachments/assets/b67ac975-80ce-425f-996d-b77626777a80)
@@ -45,6 +44,13 @@ https://github.com/user-attachments/assets/5be997d9-f21d-42e4-8d46-c7f5130e8016
 https://github.com/user-attachments/assets/e16a527a-a8b1-4b50-acb1-7e57a0d1a688
 ## Ordem de Produção
 https://github.com/user-attachments/assets/b2b92cda-e1a6-4a38-ad04-dafe9cd859c7
+#
+#
+# 10° Atividade PowerAutomate
+![Captura de tela 2025-06-30 193502](https://github.com/user-attachments/assets/78102ba0-376e-41de-8a30-f493e2d15f1d)
+https://github.com/user-attachments/assets/f3326e76-ce10-490e-8f9d-ad83c2d51fe5
+
+
 
 
 
